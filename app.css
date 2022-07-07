@@ -1,0 +1,48 @@
+body {
+    text-shadow: 2px 2px 2px #000000;
+    justify-content: center;
+    align-items: center;
+    background: url(K.webp) no-repeat center center fixed;
+    background-size: cover;
+    font-family: Impact, Charcoal, sans-serif;
+    color:#FFFFFF
+}
+
+button {
+    margin: auto;
+    display: grid;
+    background-color: #36DFB9;
+    border-radius: 10px;
+    border: 6px double #5F31A4;
+    font-size: 30px;
+    font-family: Impact, Charcoal, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    text-align: center;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+}
+
+h1 {
+    border: 9px solid #5F31A4;
+    border-radius: 75%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    background: #36DFB9;
+}
+
+h2 {
+    text-shadow: 2px 2px 2px #5F31A4;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    font-family: Impact, Charcoal, sans-serif;
+    color: #FFFFFF;
+
+}
